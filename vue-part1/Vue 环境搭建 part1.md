@@ -133,7 +133,7 @@ All in one 的脚手架工具提供了全面丰富的配置和功能，可以让
     }
 ```
 
-4. 安装依赖 && 第一次打包编译
+**4.** 安装依赖 && 第一次打包编译
 
     npm i vue vue-loader vue-template-compile webpack babel-loader css-loader --save
 
